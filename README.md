@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @KiranMatcha9
 - 👀 I’m interested in Full stack developement,Machine learning and problem solving
 - 🌱 I’m currently learning Data Science through online BSC degree in programming and data science in IIT Madras.
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on backend developement
+- 📫 How to reach me www.linkedin.com/in/kiran-matcha
 
 <!---
 KiranMatcha9/KiranMatcha9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
